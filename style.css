@@ -1,0 +1,41 @@
+/* Style.css */
+
+/* Navbar below */
+ nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 20px;
+ }
+ nav ul li a {
+    text-decoration: none;
+ }
+nav {
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+/* colors below */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+/* background colors */
+.background-R {
+    background-color: rgb(200,100,100);
+}
+.background-O {
+    background-color: rgb(247, 191, 136);
+}
+.background-Y {
+    background-color: rgb(253, 244, 115);
+}
+.background-G {
+    background-color: rgb(148, 240, 148);
+}
+.background-B {
+    background-color: rgb(131, 202, 243);
+}
+.background-P {
+    background-color: rgb(135, 105, 216);
+}
